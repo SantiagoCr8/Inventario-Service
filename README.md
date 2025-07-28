@@ -67,7 +67,15 @@ puedes ingresar con la siguiete URL http://localhost:8080/inventario/comprar/cre
 El microservio ya tiene pruebas unitarias 
 ## Excepciones 
 EL microservicio ya cuenta con un manejo de excepciones y son manejadas con condigos HTTP
+## Documentacion Microservicio
+Con las siguiente URI se puede ingresar a la documentacion de los enpoint /doc/swagger-ui/swagger-ui/index.html
 
+<img width="1460" height="799" alt="image" src="https://github.com/user-attachments/assets/3bfd3976-129a-4a02-80b1-ac474f301b95" />
+
+
+Ejemplo:
+
+http://localhost:8080/doc/swagger-ui/swagger-ui/index.html
 
 
 
