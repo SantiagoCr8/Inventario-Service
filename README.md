@@ -13,7 +13,7 @@ Es un microservio que ayuda a la gestion de inventario
 - Maven 3.8+
 - PostgreSQL 17
 ```
-Entra a este repositorio https://github.com/SantiagoCr8/Producto-Servise.git y has el proceso de instalacion de la rama master
+Entra a este repositorio https://github.com/SantiagoCr8/Producto-Servise/tree/master y has el proceso de instalacion de la rama master
 
 ## Instalacion
 Crea una carpeta donde se va ha guardar el proyecto y habre un cmd dentro de la ruta
