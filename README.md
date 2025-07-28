@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## Descripción
-Es microservio que ayuda a la creacion de invetario
+Es un microservio que ayuda a la gestion de inventario
 
 ## Prerequisitos
 ¿Qué necesitas instalado en tu máquina?
