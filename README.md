@@ -65,7 +65,7 @@ puedes ingresar con la siguiete URL http://localhost:8080/inventario/comprar/cre
 ## Test
 El microservio ya tiene pruebas unitarias 
 ## Excepciones 
-EL microservio ya cuenta con un manejo de ejecpcion y son manejadas con condigos HTTP
+EL microservio ya cuenta con un manejo de excepciones y son manejadas con condigos HTTP
 
 
 
